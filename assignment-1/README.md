@@ -16,7 +16,7 @@ A simple web application that displays motivational quotes using modern web tech
 ## 🚀 Live Demo
 
 Check out the live app here:  
-🔗  
+🔗  https://nexiumsibtainassignment1.vercel.app/
 ---
 ## 🧪 Lighthouse Report
 
